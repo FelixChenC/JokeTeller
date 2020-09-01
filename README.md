@@ -1,1 +1,7 @@
 # JokeTeller
+
+This is a fun joke teller using VoiceRSS as a text-speech translator and https://sv443.net/jokeapi/v2/ as a joke source API
+
+Just click on the button to get a random joke to make your life happier for a few second
+
+You can see a demo on https://felixchenc.github.io/JokeTeller/
